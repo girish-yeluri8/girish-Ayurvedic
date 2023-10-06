@@ -1,0 +1,12 @@
+C:\practise\Ayurvedic.Models\bin\Debug\net7.0\Ayurvedic.Models.deps.json
+C:\practise\Ayurvedic.Models\bin\Debug\net7.0\Ayurvedic.Models.dll
+C:\practise\Ayurvedic.Models\bin\Debug\net7.0\Ayurvedic.Models.pdb
+C:\practise\Ayurvedic.Models\obj\Debug\net7.0\Ayurvedic.Models.csproj.AssemblyReference.cache
+C:\practise\Ayurvedic.Models\obj\Debug\net7.0\Ayurvedic.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\practise\Ayurvedic.Models\obj\Debug\net7.0\Ayurvedic.Models.AssemblyInfoInputs.cache
+C:\practise\Ayurvedic.Models\obj\Debug\net7.0\Ayurvedic.Models.AssemblyInfo.cs
+C:\practise\Ayurvedic.Models\obj\Debug\net7.0\Ayurvedic.Models.csproj.CoreCompileInputs.cache
+C:\practise\Ayurvedic.Models\obj\Debug\net7.0\Ayurvedic.Models.dll
+C:\practise\Ayurvedic.Models\obj\Debug\net7.0\refint\Ayurvedic.Models.dll
+C:\practise\Ayurvedic.Models\obj\Debug\net7.0\Ayurvedic.Models.pdb
+C:\practise\Ayurvedic.Models\obj\Debug\net7.0\ref\Ayurvedic.Models.dll
