@@ -1,2 +1,0 @@
-# girish-Ayurvedic
- web application
